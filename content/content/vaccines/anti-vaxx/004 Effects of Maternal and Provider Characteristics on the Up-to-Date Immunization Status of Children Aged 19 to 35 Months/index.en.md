@@ -15,5 +15,5 @@ countries:
 ---
 
 The lower the mother's level of education, and the poorer, the higher the chance that she fully vaccinates her children.
-More African and Latin Americans are vaccinating their children, and the poorer they are, the more they vaccinate. (USA)
+More African and Latin Americans are vaccinating their children, and the poorer they are, the more they vaccinate.
 
